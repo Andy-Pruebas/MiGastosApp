@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MiGastosApp</string>
+    <array name="tipos">
+        <item>Tarjeta de Crédito</item>
+        <item>Ahorro</item>
+        <item>Efectivo</item>
+    </array>
+</resources>
